@@ -1,27 +1,19 @@
 # Self Care
-#### Projeto em andamento (falta responsividade desk)
 
-Landing Page responsiva desenvolvida com HTML, CSS e conceitos mobile first e grid com finalidade de resolver o exercício Self Care da plataforma DevChallenge.
+E-commerce responsivo desenvolvido com HTML, CSS com finalidade de resolver o exercício Self Care da plataforma DevChallenge.
 
-Acesse o resultado:
 Link do desafio: https://devchallenge.vercel.app/challenges/5f14fad2130a5d78f89d9642/details
 
-![Screenshot](design/desktop)
+![Screenshot](design/desktop.png)
 
-# Devchallenge 
-<a href="https://devchallenge.now.sh/">DevChallenge</a> permite que você evolua suas skills como programador!
+**Languages and Tools:**  
 
-# Cores:
-Verde: #5CA720<br>
-Preto: #161616<br>
-Cinza (linhas divisórias): #A5A1A1<br>
-Cinza (background do footer): #F9F9F9
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-# Design:
-Modelo está disponível na pasta `./design`<br>
-Imagens estão disponíveis na pasta `./assets`<br>
+##  Contact Me  
+  <a href="https://www.instagram.com/iammarcosb_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcosbarcelos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-# Fonte utilizada:
-- Lato
-
-Desafio criado por <a href="https://github.com/thaysagomes">Thaysa Gomes</a> :)
+## Acesse
+http://SelfCare.vercel.app/
