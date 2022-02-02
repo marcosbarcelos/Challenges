@@ -2,6 +2,9 @@
 
 E-commerce responsivo desenvolvido com HTML, CSS com finalidade de resolver o exercício Self Care da plataforma DevChallenge.
 
+## Acesse
+site: https://challenges-opal.vercel.app/
+
 Link do desafio: https://devchallenge.vercel.app/challenges/5f14fad2130a5d78f89d9642/details
 
 ![Screenshot](design/desktop.png)
@@ -15,5 +18,4 @@ Link do desafio: https://devchallenge.vercel.app/challenges/5f14fad2130a5d78f89d
   <a href="https://www.instagram.com/iammarcosb_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcosbarcelos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Acesse
-http://SelfCare.vercel.app/
+
