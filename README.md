@@ -9,7 +9,7 @@
 <blockquote align="center">“A persistência é o caminho para o êxito.”</blockquote>
 
 <p align="center">
-  <a href="#Marcos-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sobre">Sobre este repositório</a>
 </p>
 
