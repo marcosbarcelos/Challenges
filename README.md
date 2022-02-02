@@ -15,8 +15,8 @@
 
 ## Desafios
 
-- [Landing Page (AmazingGraph)](AmazingGraph/Readme.md)
-- [E-commerce (SelfCare)](SelfCare/README.md)
+- [Landing Page (AmazingGraph)](/AmazingGraph)
+- [E-commerce (SelfCare)](/SelfCare)
 
 ## Sobre
 
