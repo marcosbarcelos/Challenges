@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="#Marcos-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#sobre">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sobre">Sobre este repositório</a>
 </p>
 
-## :Marcos: Desafios
+## Desafios
 
 - [Landing Page (AmazingGraph)](AmazingGraph/Readme.md)
 - [E-commerce (SelfCare)](SelfCare/README.md)
 
-## :Marcos :Sobre
+## Sobre
 
 Esses desafios são retirado de sites especializados no tema, cada projeto conterá anexado em seu Readme a fonte de onde foi pego, a ideia é através destes desafios poder aprimorar minha capacidade de solução para problemas e aprender cada vez mais através dos mesmos.
 
