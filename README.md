@@ -13,10 +13,10 @@
   <a href="#sobre">Sobre este repositório</a>
 </p>
 
-## Desafios
+## Desafios (divididos por plataformas)
 
-- [Landing Page (AmazingGraph)](/AmazingGraph)
-- [E-commerce (SelfCare)](/SelfCare)
+- [DevChallenge](/DevChallenge)
+- [Codelândia](/codelândia)
 
 ## Sobre
 
