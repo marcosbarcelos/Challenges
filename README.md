@@ -16,7 +16,7 @@
 ## Desafios (divididos por plataformas)
 
 - [DevChallenge](/DevChallenge)
-- [Codelândia](/codelândia)
+- [Codelândia](/Codelândia)
 
 ## Sobre
 

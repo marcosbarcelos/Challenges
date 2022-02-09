@@ -3,7 +3,7 @@
 E-commerce responsivo desenvolvido com HTML, CSS com finalidade de resolver o exercício Self Care da plataforma DevChallenge.
 
 ## Acesse
-site: https://challenges-opal.vercel.app/
+site: https://selfcare-gamma.vercel.app/
 
 Link do desafio: https://devchallenge.vercel.app/challenges/5f14fad2130a5d78f89d9642/details
 
